@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:06:46 +0800] "GET /commonParam HTTP/1.1" 200 22 http-bio-80-exec-2 58
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:08:18 +0800] "GET /commonParam?name=zhangsan HTTP/1.1" 200 22 http-bio-80-exec-2 65
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:12:22 +0800] "GET /commonParam?name=zhangsan&age=15 HTTP/1.1" 200 22 http-bio-80-exec-2 69
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:19:10 +0800] "POST /commonParam HTTP/1.1" 200 22 http-bio-80-exec-5 2
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:19:22 +0800] "POST /commonParam HTTP/1.1" 200 22 http-bio-80-exec-2 76
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:19:51 +0800] "POST /commonParam HTTP/1.1" 200 22 http-bio-80-exec-2 72
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:21:27:01 +0800] "POST /commonParam HTTP/1.1" 200 22 http-bio-80-exec-2 69
